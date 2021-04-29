@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm an iOS developer experienced in developing quality iOS apps, leading cross-functional development teams, and coaching/teaching iOS Development. 
+- I'm an iOS developer experienced in developing quality iOS apps, leading cross-functional development teams, and coaching/teaching iOS Development and Computer Science. 
 - I have been a lifelong student of programming starting in high school with Pascal and most recently learning iOS development with Swift and Objective-C. 
 - I have also spent years teaching or coaching a variety of subjects, including TaeKwonDo, Workplace Safety, and most recently, iOS Development. 
 
